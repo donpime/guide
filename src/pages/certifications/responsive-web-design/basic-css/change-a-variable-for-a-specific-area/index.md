@@ -3,7 +3,7 @@ title: Change a variable for a specific area
 ---
 ## Change a variable for a specific area
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/certifications/responsive-web-design/basic-css/change-a-variable-for-a-specific-area/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
+Consider the comment, add code bellow, and add code above to write your code
 
 <a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
 
